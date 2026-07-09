@@ -2,7 +2,7 @@
 
 ## AIといえば、assie ，
 
-福岡を拠点に、生成AI活用支援、Webデザイン、ホームページ制作、SEO・AIO対応、SNS運用支援、
+福岡を拠点に、生成AI活用支援、Webデザイン、ホームページ制作、SEO・AIO対応、SNS運用支援、<br>
 PC設定（ソフト・ハード）、名刺・POP・チラシ制作、音楽・動画制作などを提供しています。
 
 ### assie，Productions - Fukuoka ．
