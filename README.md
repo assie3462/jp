@@ -20,11 +20,11 @@ PC設定（ソフト・ハード）、名刺・POP・チラシ制作、音楽・
 
 ※ お問い合わせ前に必ずご確認ください。
 
- 日本語
-　https://github.com/assie3462/jp/blob/main/jp-pp.png
+　日本語
+　　https://github.com/assie3462/jp/blob/main/jp-pp.png
 
- English
-　https://github.com/assie3462/jp/blob/main/en-pp.jpg
+　English
+　　https://github.com/assie3462/jp/blob/main/en-pp.jpg
 
 ※ 必ず一読の上 ，同意されましたら ，お問い合わせください！ 
 * Please read carefully & if you agree, please contact us !
