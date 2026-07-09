@@ -21,7 +21,7 @@ SEO・AIO対応、SNS運用支援、PC設定（ソフト・ハード）、
 ※お問い合わせ前に必ずご確認ください。
 
 日本語
-jp-pp.png
+　https://github.com/assie3462/jp/blob/main/jp-pp.png
 
 English
 　https://github.com/assie3462/jp/blob/main/en-pp.jpg
