@@ -16,8 +16,7 @@ https://forms.office.com/r/YbKYHKvHVx
 https://instagram.com/asi_tomo
 
 ### PR TIMES
-（掲載後のURL一覧）
-
+　https://prtimes.jp/main/html/rd/p/000000001.000186872.html
 ---
 
 ## Privacy Policy
@@ -28,7 +27,7 @@ https://instagram.com/asi_tomo
 jp-pp.png
 
 English
-en-pp.jpg
+　https://github.com/assie3462/jp/blob/main/en-pp.jpg
 
 【 個人情報保護方針 】- Privacy Policy
 
