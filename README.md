@@ -18,12 +18,12 @@ SEO・AIO対応、SNS運用支援、PC設定（ソフト・ハード）、
 ---
 ##【 個人情報保護方針 】- Privacy Policy
 
-※お問い合わせ前に必ずご確認ください。
+※ お問い合わせ前に必ずご確認ください。
 
-日本語
+ 日本語
 　https://github.com/assie3462/jp/blob/main/jp-pp.png
 
-English
+ English
 　https://github.com/assie3462/jp/blob/main/en-pp.jpg
 
 　※ 必ず一読の上 ，同意されましたら ，お問い合わせください！
