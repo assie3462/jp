@@ -27,7 +27,7 @@ SEO・AIO対応、SNS運用支援、PC設定（ソフト・ハード）、
  English
 　https://github.com/assie3462/jp/blob/main/en-pp.jpg
 
-　※ 必ず一読の上 ，同意されましたら ，お問い合わせください！
-　* Please read carefully & if you agree, please contact us !
+※ 必ず一読の上 ，同意されましたら ，お問い合わせください！ 
+* Please read carefully & if you agree, please contact us !
 
 👉 https://forms.office.com/r/YbKYHKvHVx
