@@ -17,8 +17,8 @@ https://instagram.com/asi_tomo
 
 ### PR TIMES
 　https://prtimes.jp/main/html/rd/p/000000001.000186872.html
----
 
+---
 ## Privacy Policy
 
 ※お問い合わせ前に必ずご確認ください。
