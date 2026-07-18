@@ -1,6 +1,6 @@
 # 【 無料相談窓口 】 - Free consultation desk
 
-## 『 AIといえば 、assie ， 』<br><br>
+## 『 AIといえば 、assie ， 』- We are taking measures 365 days . <br><br>
 
 福岡を拠点に 、生成AI活用支援 、Webデザイン 、ホームページ開設 、SEO・AIO対応 、SNS運用支援 、<br>
 PC設定（ソフト・ハード） 、名刺・POP・チラシ制作 、音楽・動画制作など を 提供しております。
