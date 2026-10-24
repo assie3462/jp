@@ -11,9 +11,6 @@ PC設定（ソフト・ハード） 、名刺・POP・チラシ制作 、音楽�
 ### Instagram
 　https://instagram.com/asi_tomo 
 
-### PR TIMES - No. 1
-　https://prtimes.jp/main/html/rd/p/000000001.000186872.html
-
 ---
 
 ## 【 個人情報保護方針 】- Privacy Policy
