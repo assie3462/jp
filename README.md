@@ -2,7 +2,7 @@
 
 ## 『 AIといえば 、assie ， 』- We are taking measures 365 days . <br><br>
 
-福岡を拠点に 、AI活用支援 、Webデザイン 、ホームページ開設 、SEO・AIO対応 、SNS運用支援 、<br>
+福岡拠点に 、AI活用支援 、Webデザイン 、ホームページ開設 、SEO・AIO対応 、SNS運用支援 、<br>
 PC設定（ソフト・ハード） 、名刺・POP・チラシ制作 、音楽・動画制作など を 提供しております。
 
 Based in Fukuoka, we offer a range of services including support for the use of AI(SI), web design, website setup, SEO and AIO (AI-optimized) strategies,
