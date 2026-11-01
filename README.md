@@ -14,7 +14,7 @@ social media management, PC configuration (software and hardware), the creation 
 　https://www.fukuoka.website ( Our Website )
 
 ### Instagram
-　https://instagram.com/asi_tomo 
+　https://instagram.com/asi_tomo 【 Please send us a direct message. 】
 
 ---
 
