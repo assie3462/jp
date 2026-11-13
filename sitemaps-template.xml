@@ -1,0 +1,352 @@
+<t t-name="website.sitemaps">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure">
+            
+<style>
+    a[href="#wrap"],
+    a[href="#wrap"]:focus,
+    a[href="#wrap"]:active {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        height: 0 !important;
+        overflow: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+    }
+</style>            
+            
+            <style>
+                .assie-sitemaps {
+                    --as-green: #7CFF00;
+                    --as-cyan: #55DFFF;
+                    --as-white: #FFFFFF;
+                    --as-muted: #C6D2D2;
+                    --as-border: rgba(124, 255, 0, 0.35);
+                    box-sizing: border-box;
+                    width: 100%;
+                    padding: 48px 20px 64px;
+                    background: #000000;
+                    color: var(--as-white);
+                    font-family: "Noto Sans JP",
+                        "Hiragino Kaku Gothic ProN",
+                        sans-serif;
+                    line-height: 1.8;
+                    overflow-wrap: anywhere;
+                }
+
+                .assie-sitemaps *,
+                .assie-sitemaps *::before,
+                .assie-sitemaps *::after {
+                    box-sizing: border-box;
+                }
+
+                .assie-sitemaps .as-inner {
+                    width: 100%;
+                    max-width: 1000px;
+                    margin: 0 auto;
+                }
+
+                .assie-sitemaps .as-header {
+                    padding: 0 0 28px;
+                    border-bottom: 1px solid var(--as-border);
+                    text-align: center;
+                }
+
+                .assie-sitemaps .as-header h1 {
+                    margin: 0 0 16px;
+                    color: var(--as-green);
+                    font-size: clamp(26px, 5vw, 42px);
+                    line-height: 1.5;
+                    overflow-wrap: anywhere;
+                }
+
+                .assie-sitemaps .as-header p {
+                    max-width: 760px;
+                    margin: 0 auto;
+                    color: var(--as-muted);
+                    font-size: 15px;
+                    text-align: left;
+                }
+
+                .assie-sitemaps .as-group {
+                    margin: 32px 0 0;
+                    padding: 24px;
+                    border: 1px solid var(--as-border);
+                    border-radius: 14px;
+                    background: #080B0A;
+                }
+
+                .assie-sitemaps .as-group h2 {
+                    margin: 0 0 16px;
+                    padding: 0 0 10px;
+                    border-bottom: 1px solid var(--as-border);
+                    color: var(--as-green);
+                    font-size: 21px;
+                    line-height: 1.6;
+                }
+
+                .assie-sitemaps .as-group ul {
+                    margin: 0;
+                    padding-left: 1.4em;
+                    list-style: disc;
+                }
+
+                .assie-sitemaps .as-group li {
+                    margin: 8px 0;
+                    padding-left: 3px;
+                    color: var(--as-muted);
+                }
+
+                .assie-sitemaps .as-group a {
+                    color: var(--as-cyan);
+                    text-decoration: underline;
+                    text-decoration-thickness: 1px;
+                    text-underline-offset: 4px;
+                    overflow-wrap: anywhere;
+                }
+
+                .assie-sitemaps .as-group a:hover {
+                    color: var(--as-green);
+                }
+
+                .assie-sitemaps .as-group a:focus-visible {
+                    outline: 2px solid var(--as-green);
+                    outline-offset: 4px;
+                    border-radius: 2px;
+                }
+
+                .assie-sitemaps .as-description {
+                    display: block;
+                    margin-top: 3px;
+                    color: var(--as-muted);
+                    font-size: 13px;
+                }
+
+                .assie-sitemaps .as-footer {
+                    margin-top: 36px;
+                    padding-top: 20px;
+                    border-top: 1px solid var(--as-border);
+                    color: var(--as-muted);
+                    font-size: 13px;
+                    text-align: center;
+                }
+
+                .assie-sitemaps .as-footer a {
+                    color: var(--as-cyan);
+                }
+
+                @media (max-width: 600px) {
+                    .assie-sitemaps {
+                        padding: 32px 14px 44px;
+                    }
+
+                    .assie-sitemaps .as-group {
+                        margin-top: 20px;
+                        padding: 18px 16px;
+                    }
+
+                    .assie-sitemaps .as-group h2 {
+                        font-size: 18px;
+                    }
+
+
+                    .assie-sitemaps .as-header p {
+                        font-size: 14px;
+                    }
+                }
+@media (max-width: 767px) {
+.assie-sitemaps .as-inner &gt; a[href="/"] {
+display: block;
+margin: 16px 0;
+text-align: center;
+}
+.assie-sitemaps .as-inner &gt; a[href="/"] img {
+display: block;
+max-width: 100%;
+height: auto;
+margin: 0 auto 8px;
+}
+.assie-sitemaps img[src*="apf.png"] {
+display: block;
+max-width: 100%;
+height: auto;
+margin: 0 auto 8px;
+}
+}
+</style>
+
+    <div id="google_translate_container" data-oe-model="ir.ui.view" data-oe-id="1687" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[1]"/>
+    <div id="google_translate_element" data-oe-model="ir.ui.view" data-oe-id="1687" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/div[2]"/>
+
+
+            <main class="assie-sitemaps">
+                <div class="as-inner">
+
+                    <header class="as-header">
+                        <h1>公式サイト・関連リンク一覧</h1>
+                        <p align="center">
+                            　福岡を拠点に活動する
+                            ［ assie，Productions - Fukuoka ．］の
+                            公式サイト、SNS投稿、<br/>Webデザイン、AI活用支援、
+                            ITサポート、音楽活動などの関連リンク ，種類ごとの一覧です。
+                        </p>
+                    </header>
+
+                    <section class="as-group" aria-labelledby="as-official">
+                        <h2 id="as-official">公式サイトなど</h2>
+                        <ul>
+                            <li>
+                                <a href="/">公式ホームページ</a>
+                                <span class="as-description">
+                                    ［ assie，Productions - Fukuoka . ］Public Site
+                                </span>
+                            </li>
+                            <li>
+                                <a href="https://r-industry.odoo.com/home">関連サイト</a>
+                                <span class="as-description">
+                                    不用品回収＝ア ー ル 産 業 ( Fukuoka )
+                                </span>
+                            </li>
+                            <li>
+                                <a href="/sitemaps">サイトマップ・関連リンク一覧</a>
+                            </li>
+                            <li>
+                                <a href="https://www.fukuoka.website/sitemap.xml">サイトマップ（XML）</a>
+</li>
+<li>
+<a href="/cf">エンタメ応援クラファン</a>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-social">
+                        <h2 id="as-social">SNS・ソーシャルメディア</h2>
+                        <ul>
+                            <li>
+                                <a href="https://x.com/zkmkm" target="_blank" rel="noopener noreferrer">X（ Old Twitter ）</a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/asi_tomo" target="_blank" rel="noopener noreferrer">Instagram</a>
+                            </li>
+                            <li>
+                                <a href="https://threads.com/@asi_tomo" target="_blank" rel="noopener noreferrer">Threads</a>
+                            </li>
+                            <li>
+                                <a href="https://tiktok.com/@tiktok_fukuoka.jp" target="_blank" rel="noopener noreferrer">TikTok</a>
+                            </li>
+                            <li>
+                                <a href="https://note.com/zh1" target="_blank" rel="noopener noreferrer">note</a>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-video">
+                        <h2 id="as-video">動画・ライブ配信</h2>
+                        <ul>
+                            <li>
+                                <a href="https://youtube.com/@zh1" target="_blank" rel="noopener noreferrer">あしチャンネル（YouTube）</a>
+                            </li>
+                            <li>
+                                <a href="https://www.pococha.com/ja-jp/app/users/43ca46dd-1d50-45bf-aeea-d1da9c147f99" target="_blank" rel="noopener noreferrer">Pococha 配信</a>
+                            </li>                            
+                            <li>
+                                <a href="https://www.showroom-live.com/r/ff5825230357" target="_blank" rel="noopener noreferrer">SHOWROOM配信</a>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-music">
+                        <h2 id="as-music">音楽・オリジナル作品</h2>
+                        <ul>
+                            <li>
+                                <a href="https://eggs.mu/artist/zhkmk" target="_blank" rel="noopener noreferrer"> assie, Original Songs（Eggs）</a>
+                            </li>
+                            <li>
+                                <a href="https://suno.com/playlist/af6eb79d-0331-4d42-b65f-0f9b35e5a6d0" target="_blank" rel="noopener noreferrer"> Female Vocal Songs（SUNO）</a>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-services">
+                        <h2 id="as-services">サービス・商品・お知らせ</h2>
+                        <ul>
+                            <li>
+                                <a href="https://asp.stores.jp/" target="_blank" rel="noopener noreferrer">サービス案内・FLYER</a>
+                            </li>
+                            <li>
+                                <a href="https://asp.stores.jp/faq" target="_blank" rel="noopener noreferrer">よくある質問（FAQ）</a>
+                            </li>
+                            <li>
+                                <a href="https://asp.stores.jp/news" target="_blank" rel="noopener noreferrer">NEWS・お知らせ</a>
+                            </li>
+                            <li>
+                                <a href="https://assie.official.ec/" target="_blank" rel="noopener noreferrer">オリジナルグッズ</a>
+                            </li>
+                            <li>
+                                <a href="https://prtimes.jp/main/html/searchrlp/company_id/186872" target="_blank" rel="noopener noreferrer">プレスリリース（PR TIMES）</a>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-projects">
+                        <h2 id="as-projects">関連プロジェクト・情報サイト</h2>
+                        <ul>
+                            <li>
+                                <a href="https://apfj.odoo.com/" target="_blank" rel="noopener noreferrer">あしプロダクション</a>
+                            </li>
+                            <li>
+                                <a href="https://r-industry.odoo.com/home" target="_blank" rel="noopener noreferrer">アール産業（Fukuoka）</a>
+                                <span class="as-description">
+                                    福岡の不用品回収サービス
+                                </span>
+                            </li>
+                            <li>
+                                <a href="https://w.wiki/Kivc" target="_blank" rel="noopener noreferrer">あしWiki（参考文献）</a>
+                            </li>
+                            <li>
+                                <a href="https://chatgpt.com/g/g-p-6a158e8ca2a081919454133411e00237-aikurieiteihu/project" target="_blank" rel="noopener noreferrer">AI_study（AIクリエイティブ）</a>
+                                <span class="as-description">
+                                    生成AIの学習・活用に関するプロジェクト
+                                </span>
+                            </li>
+                            <li>
+                                <a href="https://soloist.ai/zh1" target="_blank" rel="noopener noreferrer">英語版・簡易サイト</a>
+                            </li>
+                            <li>
+                                <a href="https://www.odoo.com/" target="_blank" rel="noopener noreferrer">Odoo公式サイト</a>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-profiles">
+                        <h2 id="as-profiles">プロフィール・リンク集</h2>
+                        <ul>
+                            <li>
+                                <a href="https://linktr.ee/3462" target="_blank" rel="noopener noreferrer">あしＨＯＭＥ</a>
+                            </li>
+                            <li>
+                                <a href="https://1link.jp/zh" target="_blank" rel="noopener noreferrer">あしリンク</a>
+                            </li>
+                       </ul>
+                    </section>
+
+                    <section class="as-group" aria-labelledby="as-contact">
+                        <h2 id="as-contact">お問い合わせ</h2>
+                        <ul>
+                            <li>
+                                <a href="https://github.com/assie3462/jp/blob/main/README.md" target="_blank" rel="noopener noreferrer">お問い合わせ案内 - GitHub</a>
+                                <span class="as-description">
+                                    問い合わせ方法や無料相談に関する案内
+                                </span>
+                            </li>
+                        </ul>
+                    </section>
+
+                    <br/><br/><a href="/"><img src="https://www.fukuoka.website//web/image/1063-ea98720e/apf.png?height=378"/></a>
+                    　↑ TOPへ戻る
+                </div>
+            </main>
+        </div>
+    </t>
+</t>
